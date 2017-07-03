@@ -1,3 +1,10 @@
 com\rkp\myparkingasst\pricing\TestParkingCost.class
+com\rkp\myparkingasst\sortandsearch\TestReversalImplementations.class
+com\rkp\myparkingasst\sortandsearch\TestBinaryTreeImplementation.class
+com\rkp\myparkingasst\sortandsearch\TestGenericImpl.class
+com\rkp\myparkingasst\patterns\TestParkingLotBuilder.class
+com\rkp\myparkingasst\pscalc\TestParkingSpaceUpdator.class
 com\rkp\myparkingasst\beans\TestMyVehicle.class
+com\rkp\myparkingasst\sortandsearch\TestSortingImplementations.class
+com\rkp\myparkingasst\patterns\TestShapeFactory.class
 com\rkp\myparkingasst\registration\TestVehicleRegistration.class
